@@ -30,5 +30,8 @@ I also gave a 5 minute introduction of the Overview sheet to fellow analysts.
 
 Here are some of the insights:
 
+![](salesBymonth.PNG)
+![](yoy.PNG)
+![](order.PNG)
 Here is the link to the [Googlesheet](https://docs.google.com/spreadsheets/d/1Bj3_QSUIZgid2VxZ16RUAj_-VLu5QIiE15DhA8jmG5U/edit?gid=1562610257#gid=1562610257)
    
